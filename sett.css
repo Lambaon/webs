@@ -20,3 +20,16 @@ img.obodi {
     width: 500px;
     height: auto;
 }
+#текст{
+    color:aqua;
+    size: "+5";
+}
+#Immortaly{
+    size: "+2";
+    color: rgb(19, 9, 9);
+}
+#VideosFam{
+    size: "+1";
+}
+
+
