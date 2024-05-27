@@ -1,11 +1,3 @@
-.marai {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 770px;
-    height: auto;
-}
-
 img.obodi {
     position: absolute;
     width: 500px;
@@ -24,6 +16,15 @@ img.obodi {
     color:aqua;
     size: "+5";
 }
+#salo{
+    transform: scale(3);
+    color: rgb(77, 11, 11);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+    font-size: 15px;
+}
 #immortaly{
     size: "+2";
     color: rgb(19, 9, 9);
@@ -31,9 +32,13 @@ img.obodi {
 #video-fam{
     size: "+1";
 }
-#salvatrychki{
-    size: "+1";
-    color: rgb(19, 9, 9);
+#mara-fot{
+    border: 5px #1484ff solid;
+    float: right;
+    position: absolute;
+    width: 780px;
+    top: 0;
+    right: 0;
+    height: auto;
 }
-
 
