@@ -6,9 +6,9 @@ img.obodi {
 
 .picture .cheat {
     position: absolute;
-    top: 12%;
-    left: 30%;
-    margin: 0 auto;
+/*    top: 12%;
+    left: 30%;*/
+    float: left;
     width: 500px;
     height: auto;
 }
@@ -46,5 +46,6 @@ img.obodi {
 }
 #video-fam{
     transform: scale(3);
+    font-size: large;
 }
 
