@@ -1,4 +1,4 @@
-img.obodi {
+/*img.obodi {
     position: absolute;
     width: 500px;
     height: auto;
@@ -6,13 +6,13 @@ img.obodi {
 
 .picture .cheat {
     position: absolute;
-/*    top: 12%;
-    left: 30%;*/
+    top: 12%;
+    left: 30%;
     float: left;
     width: 500px;
     height: auto;
 }
-/*#text{
+#text{
     color:aqua;
     size: "+5";
 }*/
@@ -28,7 +28,7 @@ img.obodi {
 #text-imm{
     font-size: 2em;
     font-family: 'Times New Roman' ;
-    font-size: 17px;
+    font-size: 18px;
 }
 
 #immortaly{
