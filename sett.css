@@ -12,25 +12,28 @@ img.obodi {
     width: 500px;
     height: auto;
 }
-#text{
+/*#text{
     color:aqua;
     size: "+5";
-}
+}*/
 #salo{
     transform: scale(3);
-    color: rgb(77, 11, 11);
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: Arial;
     font-size: 15px;
 }
-#immortaly{
-    size: "+2";
-    color: rgb(19, 9, 9);
+#text-imm{
+    font-size: 2em;
+    font-family: 'Times New Roman' ;
+    font-size: 17px;
 }
-#video-fam{
-    size: "+1";
+
+#immortaly{
+    font-size: 1.5em;
+    color: rgb(0, 0, 0);
 }
 #mara-fot{
     border: 5px #1484ff solid;
@@ -40,5 +43,8 @@ img.obodi {
     top: 0;
     right: 0;
     height: auto;
+}
+#video-fam{
+    transform: scale(3);
 }
 
