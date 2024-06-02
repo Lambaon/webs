@@ -39,7 +39,7 @@
     border: 5px #1484ff solid;
     float: right;
     position: absolute;
-    width: 780px;
+    width: 700px;
     top: 0;
     right: 0;
     height: auto;
@@ -48,7 +48,5 @@
     transform: scale(3);
     font-size: large;
 }
-#sit{
-    width: 200px;
-}
+
 
