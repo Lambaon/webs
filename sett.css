@@ -17,6 +17,7 @@
     size: "+5";
 }*/
 #salo{
+    text-shadow: 5px 4px 3px #999;
     transform: scale(3);
     color: rgb(0, 0, 0);
     display: flex;
